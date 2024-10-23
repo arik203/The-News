@@ -1,0 +1,40 @@
+body {
+     font-family: 'Nunito', sans-serif;
+     margin: 0; /* Remove default margin */
+     padding: 0; /* Remove default padding */
+     background-color: #f8f9fa; /* Light background for better contrast */
+ }
+ 
+ .headline {
+     text-align: center;
+     padding: 20px 0; /* Add vertical padding */
+     margin: 20px 0; /* Add vertical margin */
+ }
+ 
+ .navbar {
+     margin-bottom: 20px; /* Space below the navbar */
+ }
+ 
+ .nav-item {
+     margin-right: 15px; /* Space between nav items */
+     text-align: center; /* Center text in nav items */
+ }
+ 
+ .news-Content {
+     max-width: 1200px; /* Center content and limit width */
+     margin: 0 auto; /* Center the section */
+     padding: 20px; /* Add padding around content */
+ }
+ 
+ .Footer {
+     text-align: center;
+     color: black;
+     padding: 20px; /* Adjust padding for balance */
+     background-color: whitesmoke;
+     margin-top: 30px; /* Space above footer */
+ }
+ 
+ footer h5 {
+     margin: 0; /* Remove default margin from h5 */
+ }
+ 
